@@ -1,0 +1,24 @@
+{
+  "name": "poc-nodejs-undici-1308",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/is2ei/POC-nodejs-undici-1308.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/is2ei/POC-nodejs-undici-1308/issues"
+  },
+  "homepage": "https://github.com/is2ei/POC-nodejs-undici-1308#readme",
+  "dependencies": {
+    "undici": "^4.16.0"
+  }
+}
